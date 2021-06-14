@@ -1,6 +1,6 @@
 const person = {
     name: 'Victor',
-    campus: 'Remote Lisbon'
+    campus: 'Lisbon'
 }
 
 module.exports = person
